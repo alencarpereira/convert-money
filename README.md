@@ -38,7 +38,6 @@
 <ul>
   <li><p  <a href="https://github.com/alencarpereira/currency-convert-ale.git"></a>Repositório:  https://github.com/alencarpereira/currency-convert-ale.git</p></li>
 </ul>
-<p  <a href="https://github.com/alencarpereira/currency-convert-ale.git"></a>Repositório:  https://github.com/alencarpereira/currency-convert-ale.git</p>
 <br>
 <h2>📝 Configuração da API</h2>
 <ol>
