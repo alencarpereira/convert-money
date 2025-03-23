@@ -21,3 +21,9 @@
 </ul>
 <br>
 <img src="https://github.com/alencarpereira/currency-convert-ale/blob/main/assets/currency.png?raw=true">
+<br>
+<br>
+<h2>🌍 Como Funciona</h2>
+<ol>
+  <li>O usuário seleciona a moeda de origem (de) e a moeda de destino (para).</li>
+</ol>
