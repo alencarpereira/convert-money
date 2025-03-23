@@ -44,4 +44,12 @@
 <ul>
   <li>Vá para ExchangeRate API e registre-se para obter uma chave de API gratuita.:</li>
 </ul>
+<ol>
+  <li>Substitua a chave da API:</li>
+</ol>
+<ul>
+  <li>No arquivo script.js, substitua a variável API_KEY pela chave obtida:</li>
+  <li>const API_KEY = 'SUA_CHAVE_DE_API';</li>
+</ul>
+
 
