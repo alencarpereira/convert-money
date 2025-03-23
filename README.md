@@ -26,4 +26,7 @@
 <h2>🌍 Como Funciona</h2>
 <ol>
   <li>O usuário seleciona a moeda de origem (de) e a moeda de destino (para).</li>
+  <li>Insira o valor que deseja converter.</li>
+  <li>Ao clicar no botão Converter, o valor será automaticamente convertido com base nas taxas de câmbio mais recentes.</li>
+  <li>A conversão será mostrada na interface, exibindo o valor tanto na moeda de origem quanto na moeda de destino.</li>
 </ol>
