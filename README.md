@@ -30,3 +30,9 @@
   <li>Ao clicar no botão Converter, o valor será automaticamente convertido com base nas taxas de câmbio mais recentes.</li>
   <li>A conversão será mostrada na interface, exibindo o valor tanto na moeda de origem quanto na moeda de destino.</li>
 </ol>
+<br>
+<h2>⚙️ Como Rodar o Projeto</h2>
+<ul>
+  <li>Clone o repositório:</li>
+</ul>
+<a
