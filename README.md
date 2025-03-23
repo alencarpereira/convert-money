@@ -55,5 +55,29 @@
 <h2>📱 Responsividade</h2>
 <p>O projeto é responsivo e adapta-se bem a dispositivos móveis. Foi utilizada a técnica de design responsivo no CSS para garantir que a interface fique funcional em telas menores.</p>
 <img src="https://github.com/alencarpereira/currency-convert-ale/blob/main/assets/currency-value.png?raw=true">
+<br>
+<h2>🛠️ Melhorias Futuras</h2>
+<ul>
+  <li>Suporte a mais moedas.</li>
+  <li>Melhorias na interface com mais opções de personalização.</li>
+  <li>Exibição de gráficos para visualizar a evolução das taxas de câmbio.</li>
+</ul>
+<br>
+<h2>💬 Contribuindo</h2>
+<p>Contribuições são bem-vindas! Para sugerir melhorias ou corrigir problemas, siga estas etapas:</p>
+<ol>
+  <li>Fork este repositório.</li>
+  <li>Crie uma nova branch (git checkout -b minha-nova-feature).</li>
+  <li>Faça as alterações necessárias.</li>
+  <li>Faça commit das suas alterações (git commit -am 'Adiciona nova feature').</li>
+  <li>Envie para o repositório original (git push origin minha-nova-feature).</li>
+  <li>Abra um pull request explicando suas mudanças.</li>
+</ol>
+<br>
+<h2>📧 Contato</h2>
+<ul>
+  <li>E-mail:   <a href="https://alencarpereira1120@gmail.com">alencarpereira1120@gmail.com</a></li>
+  <li>GitHub:</li>
+</ul>
 
 
