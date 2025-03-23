@@ -36,3 +36,12 @@
   <li>Clone o repositório:</li>
 </ul>
 <a href="https://github.com/alencarpereira/currency-convert-ale.git">Repositório</a>
+<br>
+<h2>📝 Configuração da API</h2>
+<ol>
+  <li>Obtenha uma chave de API:</li>
+</ol>
+<ul>
+  <li>Vá para ExchangeRate API e registre-se para obter uma chave de API gratuita.:</li>
+</ul>
+
