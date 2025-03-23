@@ -51,5 +51,8 @@
   <li>No arquivo script.js, substitua a variável API_KEY pela chave obtida:</li>
   <li>const API_KEY = 'SUA_CHAVE_DE_API';</li>
 </ul>
+<br>
+<h2>📱 Responsividade</h2>
+<p>O projeto é responsivo e adapta-se bem a dispositivos móveis. Foi utilizada a técnica de design responsivo no CSS para garantir que a interface fique funcional em telas menores.</p>
 
 
