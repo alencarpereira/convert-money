@@ -77,7 +77,7 @@
 <h2>📧 Contato</h2>
 <ul>
   <li>E-mail:   <a href="https://alencarpereira1120@gmail.com">alencarpereira1120@gmail.com</a></li>
-  <li>GitHub:</li>
+  <li>GitHub:   <a href="https://github.com/alencarpereira"> https://github.com/alencarpereira</a></li>
 </ul>
 
 
