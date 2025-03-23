@@ -20,4 +20,4 @@
   <li>API de Câmbio: Utilização da API ExchangeRate para obter as taxas de câmbio mais recentes.</li>
 </ul>
 <br>
-<img src="https://1drv.ms/i/c/5e14881ab90b7685/EX-8mWVbVYJOvy6LMQGYTHgBVDBQM1yQCHnVSBxG9bo6bg?e=wV5xYS">
+<img src="https://github.com/alencarpereira/currency-convert-ale/blob/main/assets/currency.png?raw=true">
