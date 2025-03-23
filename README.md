@@ -32,10 +32,10 @@
 </ol>
 <br>
 <h2>⚙️ Como Rodar o Projeto</h2>
-<ul>
+<ol>
   <li>Clone o repositório:</li>
-</ul>
-<li>Repositório: <a href="https://github.com/alencarpereira/currency-convert-ale.git"></a></li>
+</ol>
+<p>Repositório: <a href="https://github.com/alencarpereira/currency-convert-ale.git"></a></p>
 <br>
 <h2>📝 Configuração da API</h2>
 <ol>
