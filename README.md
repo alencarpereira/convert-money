@@ -82,6 +82,6 @@
   <li>GitHub:   <a href="https://github.com/alencarpereira"> https://github.com/alencarpereira</a></li>
 </ul>
 <br>
- <a href="https://alencarpereira.github.io/convert-money/'> Visite o site<a/>
+ <a href="https://alencarpereira.github.io/convert-money/"> Visite o site</a>a>
 
 
