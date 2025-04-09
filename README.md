@@ -36,7 +36,7 @@
   <li>Clone o repositório:</li>
 </ol>
 <ul>
-  <li><p  <a href="https://github.com/alencarpereira/currency-convert-ale.git"></a>Repositório:  https://github.com/alencarpereira/currency-convert-ale.git</p></li>
+  <li><p  href="https://github.com/alencarpereira/currency-convert-ale.git"></>Repositório:  https://github.com/alencarpereira/currency-convert-ale.git</p></li>
 </ul>
 <br>
 <h2>📝 Configuração da API</h2>

@@ -24,7 +24,7 @@ function convertValues() {
         alert("Por favor, insira um valor válido.");
         return;
     }
-    console.log(`Requisitando taxas de câmbio de ${fromCurrency} para ${toCurrency}`);
+   
 
         // URL da API correta com o código da moeda (BRL, USD, etc.)
         fetch(`${API_URL}${fromCurrency}`)
