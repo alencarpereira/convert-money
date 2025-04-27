@@ -71,6 +71,7 @@
 <h2>⚙️ Como Rodar o Projeto</h2>
 <ol>
   <li>Clone o repositório:</li>
+  <p>   ```bash</p>
 </ol>
 <ul>
   <li><p  href="https://github.com/alencarpereira/currency-convert-ale.git"></>Repositório:  https://github.com/alencarpereira/currency-convert-ale.git</p></li>
