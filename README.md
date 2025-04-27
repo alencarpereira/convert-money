@@ -32,21 +32,6 @@
 </ol>
 <br>
 <br>
-<h2>📝 Configuração da API</h2>
-<ol>
-  <li>Obtenha uma chave de API:</li>
-</ol>
-<ul>
-  <li>Vá para ExchangeRate API e registre-se para obter uma chave de API gratuita.:</li>
-</ul>
-<ol>
-  <li>Substitua a chave da API:</li>
-</ol>
-<ul>
-  <li>No arquivo script.js, substitua a variável API_KEY pela chave obtida:</li>
-  <li>const API_KEY = 'SUA_CHAVE_DE_API';</li>
-</ul>
-<br>
 <h2>📱 Responsividade</h2>
 <p>O projeto é responsivo e adapta-se bem a dispositivos móveis. Foi utilizada a técnica de design responsivo no CSS para garantir que a interface fique funcional em telas menores.</p>
 <img src="https://github.com/alencarpereira/currency-convert-ale/blob/main/assets/currency-value.png?raw=true">
