@@ -31,13 +31,6 @@
   <li>A conversão será mostrada na interface, exibindo o valor tanto na moeda de origem quanto na moeda de destino.</li>
 </ol>
 <br>
-<h2>⚙️ Como Rodar o Projeto</h2>
-<ol>
-  <li>Clone o repositório:</li>
-</ol>
-<ul>
-  <li><p  href="https://github.com/alencarpereira/currency-convert-ale.git"></>Repositório:  https://github.com/alencarpereira/currency-convert-ale.git</p></li>
-</ul>
 <br>
 <h2>📝 Configuração da API</h2>
 <ol>
@@ -75,6 +68,13 @@
   <li>Envie para o repositório original (git push origin minha-nova-feature).</li>
   <li>Abra um pull request explicando suas mudanças.</li>
 </ol>
+<h2>⚙️ Como Rodar o Projeto</h2>
+<ol>
+  <li>Clone o repositório:</li>
+</ol>
+<ul>
+  <li><p  href="https://github.com/alencarpereira/currency-convert-ale.git"></>Repositório:  https://github.com/alencarpereira/currency-convert-ale.git</p></li>
+</ul>
 <br>
 <h2>📧 Contato</h2>
 <ul>
